@@ -1,4 +1,4 @@
-#  
+#  Enhance Notion for macOS with Notion for macOS new Extension - multi-device sync and auto-sync, the #1 extension. Includes multi-device sync and auto-sync for a smoother
 
 
 
